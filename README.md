@@ -1,6 +1,4 @@
 #FinanceLab_Autoencoder-Ridge
-#License
-Apache License Version 2.0, Copyright [2024] Xiaoquan Liu，Assistant Professor,Finance Innovation Lab,HKCHC
 #Dataset
 Dataset available on Hugging Face:
 (https://huggingface.co/datasets/ACELIU0852/AutoencoderRidgeDataSet)
@@ -14,3 +12,5 @@ This version implements more stabilization concerns, which may result in signifi
 Autoencoder for factor extraction,Ridge regression for factor selection, GARCH models for risk control, Backtest analysis
 #Training time
 when epoch is 5, the trainning time around 1-3 hours, when the epoch is 50, the training time is around 3-6 hours
+#License
+Apache License Version 2.0, Copyright [2024] Xiaoquan Liu，Assistant Professor,Finance Innovation Lab,HKCHC
