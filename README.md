@@ -1,6 +1,6 @@
 #FinanceLab_Autoencoder-Ridge
 #License：
-Apache License Version 2.0, Copyright [2024] Xiaoquan Liu，Assistant Professor, HKCHC
+Apache License Version 2.0, Copyright [2024] Xiaoquan Liu，Assistant Professor,Finance Innovation Lab,HKCHC
 #Dataset
 Dataset available on Hugging Face:
 (https://huggingface.co/datasets/ACELIU0852/AutoencoderRidgeDataSet)
