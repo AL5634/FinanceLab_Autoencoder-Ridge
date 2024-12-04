@@ -7,7 +7,7 @@ Exclusively for HKCHC RAF628 Class use
 #Academic purposes only
 Commercial use requires explicit approval from the Apache License Version 2.0 copyright holder to avoid infringement
 #Notes the difference
-This version implements more stabilization concerns, which may result in significant lower backtesting results compared to the RAF628 Week 11 class presentation.Each training iteration of the autoencoder may produce different results.
+This version implements more stabilization concerns, which may result in much more conservative backtesting results compared to the RAF628 Week 11 class presentation.Each training iteration of the autoencoder may produce different results.
 #Technical Components
 Autoencoder for factor extraction,Ridge regression for factor selection, GARCH models for risk control, Backtest analysis
 #Training time
